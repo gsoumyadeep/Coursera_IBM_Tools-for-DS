@@ -1,1 +1,1 @@
-Final assignment for COursera course: Tools for Data Science by IBM 
+Final assignment for Coursera course: Tools for Data Science by IBM 
